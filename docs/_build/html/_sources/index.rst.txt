@@ -11,7 +11,8 @@ Its awesome!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+  
+   new-page
 
 Section One
 ------------
